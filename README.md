@@ -3,7 +3,7 @@
 Welcome to CloudMind! I've created a light, intuitive social media platform designed with love and attention to detail, entirely built on Python Flask. While there are plenty of large-scale social media networks out there, CloudMind was born out of a desire to create a platform tailored for me and my friends, placing a priority on simplicity, usability, and community.
 
 ## Overview
-CloudMind is a modest, yet feature-rich social media application that allows users to create accounts with their emails, update profile pictures, modify user settings, and most importantly, share their thoughts, ideas, and experiences via posts. While the platform may seem small, it’s mighty with its features and is all about creating meaningful connections.
+CloudMind is a modestsocial media application that allows users to create accounts with their emails, update profile pictures, modify user settings, and most importantly, share their thoughts, ideas, and experiences via posts. While the platform may seem small, it has enough features to promote meaningfull ideas.
 
 ## Features
 Easy Account Creation: A no-nonsense, straightforward registration process lets you get started in no time. All you need is a valid email and password.
