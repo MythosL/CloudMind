@@ -1,0 +1,108 @@
+body {
+  background: #F0F0F0;  /* A lighter shade of gray */
+  color: #303030;  /* A darker shade of gray for better contrast */
+  margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #3a3b3c;  /* A slightly bluish shade of gray */
+}
+
+.bg-steel {
+  color:black;
+  background-color:#F0F0F0;
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #303030;  /* Darker shade of gray for contrast */
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #1d3557;  /* Dark blue color for hover state */
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.site-header {
+  background-color: #e8e8e8;  /* Light gray for navbar background */
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border-radius: 10px;  /* Increased border-radius */
+  margin-bottom: 20px;
+}
+
+.article-title {
+  color: #3a3b3c;  /* Using the same bluish-gray as for the headings */
+}
+
+a.article-title:hover {
+  color: #1d3557;  /* A dark rich blue color for hover state */
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.account-img {
+  height: 125px;
+  width: 125px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+}
+
+.account-heading {
+  font-size: 2.5rem;
+}
+
+.logo {
+  height: 1.25rem;
+  width: auto;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+
+.btn-outline-info {
+    color: black;
+    background-color: transparent;
+    background-image: none;
+    border-color: black;
+}
+
+.list-group-item-light {
+    color: #818182;
+    background-color: #fdfdfe;
+    border-color: white;
+}
